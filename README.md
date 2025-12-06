@@ -76,20 +76,8 @@ g++ -o chess main.cpp Pieces.cpp -std=c++11
 
 ## Example Game Start
 
-```
-   a  b  c  d  e  f  g  h
-8|♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜|8
-7|♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟|7
-6| .  .  .  .  .  .  .  . |6
-5| .  .  .  .  .  .  .  . |5
-4| .  .  .  .  .  .  .  . |4
-3| .  .  .  .  .  .  .  . |3
-2|♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙|2
-1|♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖|1
-   a  b  c  d  e  f  g  h
+<img width="475" height="331" alt="Chess_game_Screeshot" src="https://github.com/user-attachments/assets/7911c9c8-2fa2-4990-a19a-87c03315c57d" />
 
-White move: e2 e4
-```
 
 ## Technical Details
 
